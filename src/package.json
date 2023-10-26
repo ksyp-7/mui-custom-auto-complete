@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.7.0/docs/data/material/components/autocomplete/CheckboxesTags.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "name": "mui-autocomplete-with-custom-chips",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "title": "CheckboxesTags Material Demo",
+  "keywords": []
+}
